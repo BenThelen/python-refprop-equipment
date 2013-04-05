@@ -1,0 +1,7 @@
+This module usage the refprop module to calculate fluid output
+properties from various mechanical equipment.
+
+Refer to refprop module for details on calling fluids and fluid properties.
+
+Calculated fluid output properties will be added into the refprop 'prop'
+library. Equipment characteristics will be added into a 'equip' library.
